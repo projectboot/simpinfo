@@ -1,4 +1,4 @@
-# simpinfo 
+# simpinfo.py
 a information gathering tool using apis offering services like:
 <pre>
          _ _,---._ 
